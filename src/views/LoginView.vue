@@ -3,7 +3,7 @@
     <div class="max-w-md w-full mx-6 bg-black p-6 rounded-lg shadow-lg border border-gray-800">
       <div>
         <h1 class="text-center text-4xl sm:text-5xl font-bold uppercase tracking-wide text-blue-400 mb-6">
-          SKOOLS.COM
+          COLLEGE REPORT CARDS
         </h1>
       </div>
       

@@ -129,7 +129,7 @@ onUnmounted(() => {
         <div class="flex items-center justify-between h-16">
           <!-- Logo -->
           <div class="flex items-center">
-            <router-link to="/" class="uppercase tracking-wide text-white font-bold text-xl">SKOOLS.COM</router-link>
+            <router-link to="/" class="uppercase tracking-wide text-white font-bold text-lg sm:text-xl">COLLEGE REPORT CARDS</router-link>
             
             <!-- Navigation Links -->
             <div class="hidden md:block ml-10">

@@ -40,7 +40,7 @@ const navigateToColleges = () => {
       
       <div class="mt-8 text-xl text-gray-300 space-y-6 text-left">
         <p>
-          <span class="text-blue-400 font-semibold">SKOOLS.COM</span> is your comprehensive platform for college exploration and decision-making. We help prospective students access detailed information about institutions across the United States to make informed choices about their academic future.
+          <span class="text-blue-400 font-semibold">COLLEGE REPORT CARDS</span> is your comprehensive platform for college exploration and decision-making. We help prospective students access detailed information about institutions across the United States to make informed choices about their academic future.
         </p>
         
         <p>
